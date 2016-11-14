@@ -1,2 +1,4 @@
 message:
 greeting : Hello
+server:
+  port: 8000
